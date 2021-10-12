@@ -24,3 +24,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=anandafarhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="ananada-farhan"/>
 </p>
+<div align=center>
+      <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/>
+  </div>

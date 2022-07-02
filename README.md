@@ -24,7 +24,60 @@
   <br> -->
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=anandafarhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="ananada-farhan"/> -->
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2054%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 11 Contributions in the Year 2022
+ > 
+> 📦 447.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               11 hrs 9 mins       █████████████████░░░░░░░░   71.45% 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
+
+🔥 Editors: 
+VS Code                  15 hrs 36 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      12 hrs 40 mins      ████████████████████░░░░░   81.18% 
+Linux                    2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.82%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ███████████████████░░░░░░   76.47% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anandafarhan/anandafarhan/master/charts/bar_graph.png) 
+
+
+ Last Updated on 02/07/2022 11:14:36 UTC
+<!--END_SECTION:waka-->
 </p>
 <div align=center>
       <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/>

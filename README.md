@@ -8,7 +8,7 @@
 <br/> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186%20Thousand%20lines%20of%20code-blue)
 
@@ -18,13 +18,16 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JSON                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0%
+TypeScript               14 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.69% 
+Java                     8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.05% 
+JSON                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.26%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 💻 Operating System: 
-Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0%
+Mac                      23 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0% 
+Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.0%
 
 ```
 
@@ -33,7 +36,7 @@ Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/anandafarhan/anandafarhan/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2022 01:45:24 UTC
+ Last Updated on 12/07/2022 01:51:25 UTC
 <!--END_SECTION:waka-->
 
    <!-- <div align=center>

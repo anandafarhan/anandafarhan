@@ -59,5 +59,6 @@ Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=anandafarhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="ananada-farhan"/> -->
 
 <div align=center>
-  <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/>
+  <a href="https://app.daily.dev/anandafarhan"><img src="https://api.daily.dev/devcards/e5f90434699b40b0a4d21d5bade625aa.png?r=7ra" width="400" alt="Ananda Farhan's Dev Card"/></a>
+  <!-- <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/> -->
 </div>

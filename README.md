@@ -7,6 +7,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/> -->
 
+<div style="display: flex; flex-direction: row;">
+  <div style="display: flex;">
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2011%20mins-blue)
 
@@ -41,6 +44,14 @@ Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 14/07/2022 01:50:21 UTC
 <!--END_SECTION:waka-->
 
+  </div>
+  <div style="display: flex;">
+    <a href="https://app.daily.dev/anandafarhan">
+      <img src="https://api.daily.dev/devcards/e5f90434699b40b0a4d21d5bade625aa.png?r=7ra" width="400" alt="Ananda Farhan's Dev Card"/>
+    </a>
+  <!-- <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/> -->
+  </div>
+</div>
    <!-- <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=anandafarhan&theme=react&border=61dafb&hide_border=true" alt="ananada-farhan" />
@@ -57,8 +68,3 @@ Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </div>
   <br> -->
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=anandafarhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="ananada-farhan"/> -->
-
-<div align=center>
-  <a href="https://app.daily.dev/anandafarhan"><img src="https://api.daily.dev/devcards/e5f90434699b40b0a4d21d5bade625aa.png?r=7ra" width="400" alt="Ananda Farhan's Dev Card"/></a>
-  <!-- <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/> -->
-</div>

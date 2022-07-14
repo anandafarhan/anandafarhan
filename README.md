@@ -47,7 +47,7 @@ Windows                  0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </div>
   <div style="display: flex;">
     <a href="https://app.daily.dev/anandafarhan">
-      <img src="https://api.daily.dev/devcards/e5f90434699b40b0a4d21d5bade625aa.png?r=7ra" width="400" alt="Ananda Farhan's Dev Card"/>
+      <img src="https://github.com/anandafarhan/anandafarhan/blob/master/devcard.svg" width="400" alt="Ananda Farhan's Dev Card"/>
     </a>
   <!-- <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/> -->
   </div>

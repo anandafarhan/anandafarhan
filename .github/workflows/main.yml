@@ -1,8 +1,7 @@
-name: Waka Readme
+name: Profile Readme
 
 on:
   schedule:
-    # Runs at 12am UTC+7
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
@@ -22,3 +21,12 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROJECTS: "False"
           SYMBOL_VERSION: 3
+          
+  devcard:
+    name: Update Dev Card
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}

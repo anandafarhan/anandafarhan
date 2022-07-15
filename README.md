@@ -42,17 +42,9 @@ Mac                      5 hrs 28 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
  Last Updated on 15/07/2022 15:29:28 UTC
 <!--END_SECTION:waka-->
-    
-<!--START_SECTION:feed-->
-* [Ananda Farhan pushed to project branch Farhan at DuitHape &#x2F; Commerce Apps 4.0](https:&#x2F;&#x2F;git.meteor.asia&#x2F;duithape&#x2F;commerce-apps-4.0&#x2F;-&#x2F;commit&#x2F;96f151150b98eda391f402d2d6e2fa1207cbe4bb)
-* [Ananda Farhan pushed to project branch Farhan at DuitHape &#x2F; Commerce Apps 4.0](https:&#x2F;&#x2F;git.meteor.asia&#x2F;duithape&#x2F;commerce-apps-4.0&#x2F;-&#x2F;compare&#x2F;ddec6bd004138372a4433216a50d37cbb84548c7...1f590c333aec8727113c228b96ce359df835cfdd)
-* [Ananda Farhan pushed to project branch Farhan at DuitHape &#x2F; Commerce Apps 4.0](https:&#x2F;&#x2F;git.meteor.asia&#x2F;duithape&#x2F;commerce-apps-4.0&#x2F;-&#x2F;commit&#x2F;ddec6bd004138372a4433216a50d37cbb84548c7)
-* [Ananda Farhan pushed to project branch Farhan at DuitHape &#x2F; Commerce Apps 4.0](https:&#x2F;&#x2F;git.meteor.asia&#x2F;duithape&#x2F;commerce-apps-4.0&#x2F;-&#x2F;commit&#x2F;a70181495542ae7cb082dbe54d1e4b84dce9ea44)
-* [Ananda Farhan pushed to project branch Alpha-CR at DuitHape &#x2F; commerce-apps](https:&#x2F;&#x2F;git.meteor.asia&#x2F;duithape&#x2F;commerce-apps&#x2F;-&#x2F;commit&#x2F;1856249d8c5fe40c7b786433566b78c1f5bb81eb)
-<!--END_SECTION:feed-->
 
   </div>
-  <div style="display: flex;">
+  <div align=center style="display: flex;">
     <a href="https://app.daily.dev/anandafarhan">
       <img src="https://github.com/anandafarhan/anandafarhan/blob/master/devcard.svg" width="400" alt="Ananda Farhan's Dev Card"/>
     </a>

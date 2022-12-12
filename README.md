@@ -46,12 +46,12 @@ Windows                  6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
   </div>
-  <div align=center style="display: flex; transform-style: preserve-3d; border-radius: 2rem; transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; will-change: transform; transform: perspective(1000px) rotateX(18.8774deg) rotateY(-10.7219deg) scale3d(1, 1, 1);">
+<!--   <div align=center style="display: flex; transform-style: preserve-3d; border-radius: 2rem; transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; will-change: transform; transform: perspective(1000px) rotateX(18.8774deg) rotateY(-10.7219deg) scale3d(1, 1, 1);">
     <a href="https://app.daily.dev/anandafarhan">
       <img src="https://github.com/anandafarhan/anandafarhan/blob/master/devcard.svg" width="400" alt="Ananda Farhan's Dev Card"/>
-    </a>
+    </a> -->
   <!-- <img width=400 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=anandafarhan&cover_image=true&theme=novatorem&bar_color=57bcda" alt="ananada-farhan"/> -->
-  </div>
+<!--   </div> -->
 </div>
    <!-- <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">

@@ -1,11 +1,11 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ananda+Farhan...;Nice+to+meet+you!&center=true&size=28" alt="ananada-farhan"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+profile&center=true&size=28" alt="Welcome to my profile"/>
   </a>
 </h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br/> -->
+<br/>
 
 <div style="display: flex; flex-direction: row;">
   <div style="display: flex;">

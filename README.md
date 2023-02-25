@@ -13,7 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1,313 hrs 38 mins
+From: 27 August 2021 - To: 24 February 2023
+
+Total Time: 1,318 hrs 2 mins
 
 TypeScript             815 hrs 42 mins ███████████████▒░░░░░░░░░   61.89 %
 JavaScript             297 hrs 26 mins █████▓░░░░░░░░░░░░░░░░░░░   22.57 %

@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2021 - To: 07 June 2025
+From: 27 August 2021 - To: 08 June 2025
 
-Total Time: 2,565 hrs 38 mins
+Total Time: 2,565 hrs 53 mins
 
-TypeScript                    1,830 hrs 31 mins██████████████████░░░░░░░   71.35 %
+TypeScript                    1,830 hrs 44 mins██████████████████░░░░░░░   71.35 %
 JavaScript                    330 hrs 59 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
 JSON                          96 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 Groovy                        41 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 Dart                          28 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Other                         25 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Other                         25 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 PHP                           23 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
